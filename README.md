@@ -1,5 +1,5 @@
 # AndroidApplicationStudy
-初学Android应用开发，课程学习代码，记录一下学习过程
+初学Android应用开发，课程学习代码，记录一下学习过程（应用里面的很多图片都是随便找的，因为找合适的图片很费劲）
 感觉这门网课非常棒，很适合初学者（网课链接https://www.icourse163.org/learn/JZSZ-1002123017?tid=1206958236#/learn/announce）
 
 版本：
